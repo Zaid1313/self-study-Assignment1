@@ -1,1 +1,2 @@
 This is my first commit in master branch
+This is feature2
